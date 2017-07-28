@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/echoserver/Client/Client.iml" filepath="$PROJECT_DIR$/echoserver/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/echoserver/Server/Server.iml" filepath="$PROJECT_DIR$/echoserver/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/echoserver/echoserver.iml" filepath="$PROJECT_DIR$/echoserver/echoserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty.iml" filepath="$PROJECT_DIR$/netty.iml" />
     </modules>
   </component>

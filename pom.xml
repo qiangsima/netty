@@ -6,7 +6,11 @@
 
     <groupId>com.sima</groupId>
     <artifactId>netty</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>echoserver</module>
+    </modules>
 
     <dependencies>
         <dependency>
