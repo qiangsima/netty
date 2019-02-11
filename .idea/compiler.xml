@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Client" />
+        <module name="discardsrv" />
         <module name="Server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Client" target="1.5" />
+      <module name="discardsrv" target="1.5" />
       <module name="echoserver" target="1.5" />
       <module name="netty" target="1.5" />
       <module name="Server" target="1.5" />

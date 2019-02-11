@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/echoserver/Client/Client.iml" filepath="$PROJECT_DIR$/echoserver/Client/Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/echoserver/Server/Server.iml" filepath="$PROJECT_DIR$/echoserver/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discardsrv/discardsrv.iml" filepath="$PROJECT_DIR$/discardsrv/discardsrv.iml" />
       <module fileurl="file://$PROJECT_DIR$/echoserver/echoserver.iml" filepath="$PROJECT_DIR$/echoserver/echoserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty.iml" filepath="$PROJECT_DIR$/netty.iml" />
     </modules>
