@@ -11,6 +11,8 @@
     <modules>
         <module>echoserver</module>
         <module>discardsrv</module>
+        <module>ch9</module>
+        <module>ch12</module>
     </modules>
 
     <dependencies>
