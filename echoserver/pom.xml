@@ -17,8 +17,10 @@
     </modules>
 
     <properties>
+        <maven.compiler.source>1.6</maven.compiler.source>
+        <maven.compiler.target>1.6</maven.compiler.target>
         <echo-server.hostname>localhost</echo-server.hostname>
-        <echo-server.port>8888</echo-server.port>
+        <echo-server.port>8080</echo-server.port>
     </properties>
 
     <build>
